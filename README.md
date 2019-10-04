@@ -7,9 +7,9 @@
 
 __Ready for a brand new limited edition T-shirt from Digital Ocean?__
 
-Well, all you need to do is:
+All you need to do is:
 
-- register to: [link to hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
+- Register to: [hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
 
 - make four pull requests (PRs) between October 1-31 (in any time zone).
 
@@ -19,17 +19,25 @@ Alright, let's get starded.
 
 First thing first:
 
-- clone or fork this project [simple guide how to clone/fork projects from Github](https://www.stevejgordon.co.uk/forking-cloning-github)
+- Clone or fork this project
 
-- add your name + surname to the __CONTRIBUTING.md__ file
+[simple guide how to clone/fork projects from Github](https://www.stevejgordon.co.uk/forking-cloning-github)
 
-- you must edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
+- Add your name to the __CONTRIBUTING.md__ file:
+
+```
+ "[yourname](https://github.com/yourGithubAccout)"
+```
+
+- Edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
 
 * What's a [.json](https://en.wikipedia.org/wiki/JSON) file?
 
-Example:
+**Example:**
 
-- __I_LOVE_CODE.json__ it's a JSON file where you need to write your programmer nickname and the reason why you love coding 
+- __I_LOVE_CODE.json__ 
+
+It's a JSON file where you need to write your programmer nickname and the reason why you love coding as __value__ of the key IloveCode:
 
 ```json
 {
@@ -38,7 +46,9 @@ Example:
 }
 ```
 
-- __PROGRAMMERS_BEST_FRIEND.json__ it's another JSON file in here you'll say what's your favourite web dev tool AND/OR your favourite text-editor
+- __PROGRAMMERS_BEST_FRIEND.json__ 
+
+Another JSON file, in here you'll write what's your favourite web dev tool __AND/OR__ your favourite text-editor
 
 ```json
 {
@@ -46,3 +56,5 @@ Example:
   MybestFriends: ["Google Chrome DevTools", "Terminal", "Visual Studio"]
 }
 ```
+
+__Happy Hacking!__ :trollface:
