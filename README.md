@@ -17,13 +17,17 @@ Well, all you need to do is:
 
 Alright, let's get starded.
 
-First thing first
+First thing first:
 
 - clone or fork this project [simple guide how to clone/fork projects from Github](https://www.stevejgordon.co.uk/forking-cloning-github)
 
 - add your name + surname to the __CONTRIBUTING.md__ file
 
 - you must edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
+
+* What's a [.json](https://en.wikipedia.org/wiki/JSON) file?
+
+Example:
 
 - __I_LOVE_CODE.json__ it's a JSON file where you need to write your programmer nickname and the reason why you love coding 
 
