@@ -26,7 +26,7 @@ First thing first:
 - Add your name to the __CONTRIBUTING.md__ file:
 
 ```
- "[yourname](https://github.com/yourGithubAccout)"
+ [yourname](https://github.com/yourGithubAccout)
 ```
 
 - Edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
@@ -37,18 +37,25 @@ First thing first:
 
 - __I_LOVE_CODE.json__ 
 
-It's a JSON file where you need to write your programmer nickname and the reason why you love coding as __value__ of the key IloveCode:
+Fill in your Github account name as __value__ of the key nickname: and the reason why you love coding as __value__ of the key IloveCode:
 
 ```json
 {
-  nickname: "savino9",
-  IloveCode: "it's super fun!"
+  IloveCode:[
+  {
+    nickname: "savino9",
+    IloveCode: "it's super fun!"
+  },
+  {
+    // here your code...
+  }
+  ]
 }
 ```
 
 - __PROGRAMMERS_BEST_FRIEND.json__ 
 
-Another JSON file, in here you'll write what's your favourite web dev tool __AND/OR__ your favourite text-editor
+Another JSON file, in here you'll write a list of your favourite web dev tool __AND/OR__ your favourite text-editor as __value__ of the key MybestFriends:
 
 ```json
 {
