@@ -5,7 +5,8 @@
     MybestFriends: ["Google Chrome DevTools", "Terminal", "Visual Studio"]
   },
   {
-    
+    nickname: "reMRKableDev",
+    MybestFriends: ["Visual Studio Code", "Figma", "Google Chrom DevTools", "Terminal"]
   }  
   ]
 }
