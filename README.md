@@ -11,7 +11,7 @@ All you need to do is:
 
 - Register to: [hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
 
-- make four pull requests (PRs) between October 1-31 (in any time zone).
+- Make four pull requests (PRs) between October 1-31 (in any time zone).
 
 **Before we run into nerdy stuff I want to say thank you for all your contributions!**
 
