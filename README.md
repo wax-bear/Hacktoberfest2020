@@ -1,10 +1,6 @@
 # Hacktoberfest 2020
 
-<!-- I SEE YOU MEGGA -->
-
 ![Hacktoberfest 2020](/images/hacktoberfest2020.jpg)
-
-<!-- ![Hacktoberfest 2020](/images/hacktoberfest2020.jpg) -->
 
 ## Hi DEV friends!
 
@@ -32,10 +28,6 @@ First thing first:
 
 ```
  [yourname](https://github.com/yourGithubAccout)
-```
-
-```
-MEGGA CODE
 ```
 
 - Edit one of the two file that I've created (**I_LOVE_CODE.json**) or (**PROGRAMMERS_BEST_FRIEND.json**)
