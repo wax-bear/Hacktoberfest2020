@@ -1,12 +1,12 @@
 {
-  IloveCode:[
-  {
-    nickname: "savino9",
-    IloveCode: "it's super fun!"
-  },
-  {
-    nickname: "reMRKableDev",
-    IloveCode: "can build some cool things"
-  }
+  "IloveCode": [
+    {
+      "nickname": "savino9",
+      "IloveCode": ["it's super fun!", "you can solve real problems"]
+    },
+    {
+      "nickname": "reMRKableDev",
+      "IloveCode": "can build some cool things"
+    }
   ]
 }
