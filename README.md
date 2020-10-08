@@ -4,6 +4,8 @@
 
 ![Hacktoberfest 2020](/images/hacktoberfest2020.jpg)
 
+<!-- ![Hacktoberfest 2020](/images/hacktoberfest2020.jpg) -->
+
 ## Hi DEV friends!
 
 ## Welcome to this Open source, beginner-friendly repository that is gonna help you with your first pull-request
