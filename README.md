@@ -1,15 +1,16 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2020
 
-![Hacktoberfest 2019](/images/hacktoberfest2019.png)
+![Hacktoberfest 2020](/images/hacktoberfest2020.jpg)
 
-## Hi DEV friends! 
-## Welcome to this Open source, beginner-friendly repository that is gonna help you with your first pull-request 
+## Hi DEV friends!
 
-__Ready for a brand new limited edition T-shirt from Digital Ocean?__
+## Welcome to this Open source, beginner-friendly repository that is gonna help you with your first pull-request
+
+**Ready for a brand new limited edition T-shirt from Digital Ocean?**
 
 All you need to do is:
 
-- Register to: [hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
+- Register to: [hacktoberfest2020](https://hacktoberfest.digitalocean.com/)
 
 - Make four pull requests (PRs) between October 1-31 (in any time zone).
 
@@ -23,45 +24,45 @@ First thing first:
 
 [simple guide how to clone/fork projects from Github](https://www.stevejgordon.co.uk/forking-cloning-github)
 
-- Add your name to the __CONTRIBUTING.md__ file:
+- Add your name to the **CONTRIBUTING.md** file:
 
 ```
  [yourname](https://github.com/yourGithubAccout)
 ```
 
-- Edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
+- Edit one of the two file that I've created (**I_LOVE_CODE.json**) or (**PROGRAMMERS_BEST_FRIEND.json**)
 
 * What's a [.json](https://en.wikipedia.org/wiki/JSON) file?
 
 **Example:**
 
-- __I_LOVE_CODE.json__ 
+- **I_LOVE_CODE.json**
 
-Fill in your Github account name as __value__ of the key nickname: and the reason why you love coding as __value__ of the key IloveCode:
+Fill in your Github account name as **value** of the key nickname: and the reason why you love coding as **value** of the key IloveCode:
 
 ```json
 {
-  IloveCode:[
-  {
-    nickname: "savino9",
-    IloveCode: "it's super fun!"
-  },
-  {
-    // here your code...
-  }
+  "IloveCode": [
+    {
+      "nickname": "savino9",
+      "IloveCode": "it's super fun!"
+    },
+    {
+      // here your code...
+    }
   ]
 }
 ```
 
-- __PROGRAMMERS_BEST_FRIEND.json__ 
+- **PROGRAMMERS_BEST_FRIEND.json**
 
-Another JSON file, in here you'll write a list of your favourite web dev tool __AND/OR__ your favourite text-editor as __value__ of the key MybestFriends:
+Another JSON file, in here you'll write a list of your favourite web dev tool **AND/OR** your favourite text-editor as **value** of the key MybestFriends:
 
 ```json
 {
-  nickname: "savino9",
-  MybestFriends: ["Google Chrome DevTools", "Terminal", "Visual Studio"]
+  "nickname": "savino9",
+  "MybestFriends": ["Google Chrome DevTools", "Terminal", "Visual Studio"]
 }
 ```
 
-__Happy Hacking!__ :trollface:
+**Happy Hacking!** :trollface:
