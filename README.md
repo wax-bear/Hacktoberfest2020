@@ -1,6 +1,6 @@
 # Hacktoberfest 2020
 
-<!-- ![Hacktoberfest 2020](/images/hacktoberfest2020.jpg) -->
+![Hacktoberfest 2020](/images/hacktoberfest2020.jpg)
 
 ## Hi DEV friends!
 
