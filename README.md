@@ -10,13 +10,13 @@
 
 All you need to do is:
 
-- Register to: [hacktoberfest2020](https://hacktoberfest.digitalocean.com/)
+- Register to: [Hacktoberfest2020](https://hacktoberfest.digitalocean.com/)
 
 - Make four pull requests (PRs) between October 1-31 (in any time zone).
 
 **Before we run into nerdy stuff I want to say thank you for all your contributions!**
 
-Alright, let's get starded.
+Alright, let's get started.
 
 First thing first:
 
