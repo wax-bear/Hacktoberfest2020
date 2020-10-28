@@ -17,6 +17,15 @@
         "Google Chrome DevTools",
         "Terminal"
       ]
+    },
+    {
+      "nickname": "wax-bear",
+      "MybestFriends": [
+        "Stack Overflow",
+        "Visual Studio Code",
+        "Google Chrome DevTools",
+        "Rubber Duck"
+      ]
     }
   ]
 }
